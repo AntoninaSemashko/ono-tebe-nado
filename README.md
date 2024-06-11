@@ -1,6 +1,8 @@
 # ono-tebe-nado-initial
 Первый проект "Оно тебе надо"
 
+https://github.com/AntoninaSemashko/ono-tebe-nado.git
+
 После анализа макета выявлены следующие секции:
 1. Header - шапка сайта:
   1.1. Навигация по сайту
